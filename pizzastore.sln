@@ -5,8 +5,6 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pizzastore", "pizzastore.csproj", "{B6A1FCE1-AB0B-4D61-995F-461B694018DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaStoreUnitTests", "..\PizzaStoreUnitTests\PizzaStoreUnitTests.csproj", "{E5535F76-9193-41DB-81E8-A6C37B2C598F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
